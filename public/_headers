@@ -1,8 +1,0 @@
-/assets/*
-  Content-Type: application/javascript
-
-/*.css
-  Content-Type: text/css
-
-/*.js
-  Content-Type: application/javascript
